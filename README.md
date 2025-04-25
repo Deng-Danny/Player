@@ -6,7 +6,10 @@ windows player
 #### 软件架构
 * node v20.10.0
 * yarn包管理
+* vite
 * electron v22（兼容win7）
+* electron build
+* react
 
 
 #### 安装教程
