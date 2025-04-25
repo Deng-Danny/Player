@@ -1,0 +1,8 @@
+{
+  "name": "Player",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Deng-Danny/Player.git",
+  "author": "hwxStarry,Deng-Danny",
+  "license": "MIT"
+}
