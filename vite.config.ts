@@ -9,10 +9,10 @@ export default defineConfig({
     port:8055,
   },
   base: '',
-  root: 'src/renderer/',
+  root: 'app/renderer/',
   resolve: {
     alias: {
-      "@assets": resolve("src/renderer/src/assets/"),
+      "@assets": resolve("app/renderer/src/assets/"),
     }
   }
 })
